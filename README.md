@@ -7,7 +7,7 @@ Neste arquivo, inicialmente, você vai responder as perguntas:
 1) Vai ser desenvolvido em qual linguagem?
 R) php
 2) qual é a equipe?
-R) Juliano, Favio.H, Pedro.H 
+R) Juliano, Fabio.H, Pedro.H 
 3) qual é o tempo de cada um neste projeto?
 R) 25 Horas
 4) Porque vocês utilizaram esta linguagem? 
